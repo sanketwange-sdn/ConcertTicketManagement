@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TicketBookingService/TicketBookingService/obj
+/TicketBookingService/TicketBookingService/bin/Debug/net8.0
+/Event/EventService/obj
+/Event/EventService/bin/Debug/net8.0
+/Auth/AuthService/bin/Debug/net8.0
+/.vs
+/ApiGateway/ApiGateway/bin/Debug/net8.0
+/ApiGateway/ApiGateway/obj
